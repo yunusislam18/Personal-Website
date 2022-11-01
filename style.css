@@ -1,0 +1,94 @@
+.half-width{
+    float: left;
+    width: 42%;
+    height: 80%;
+    margin-left:2% ;
+    padding-left: 5%;
+}
+.half-width img{ 
+    
+    width: 80%;
+}
+.pink-highlight{
+    color: deeppink;
+}
+.banner-bg {
+    background-image: url(header-bg.png);
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.primarry-btn{
+    padding: 8px 16px;
+    text-decoration: none;
+    border-radius: 7px;
+    border: 1px solid #fff;
+    background-color: deeppink;
+    color: #fff;
+}
+p{
+    margin-bottom: 40px;
+}
+.biography-bg{
+    background-image: url(biography-bg.png);
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-bottom: 60px;
+}
+
+.work-serial ul li{
+    padding: 7px 14px;
+    float: left;
+    width: 30%;
+    list-style: none;
+}
+.work-serial ul li img{
+    width: 100%;
+}
+.latest-work h2{
+    padding: 20px 30px;
+    text-align: center;
+    font-size: 35px;
+}
+.latest-work{
+    background-image: url(latest-work-bg.png);
+    height: 500px;
+    background-size: cover;
+    background-position: left;
+    background-repeat: no-repeat;
+}
+.footer-section{
+    text-align: center;
+    background-image: url(footer-bg.png);
+    height: 500px;
+    background-size: cover;
+    background-position: left;
+    background-repeat: no-repeat;
+}
+.footer-1 h1{
+    font-size: 45px;
+    padding: 25px 25px;
+}
+.footer-1 h6{
+    line-height: 0px;
+    margin-top: 0px;
+    color: #bdbdbd;
+    margin-bottom: 45px;
+}
+.stop {
+    width: 50%;
+    display: inline-block; 
+}
+.footer{
+    border: 1px solid deeppink;
+    padding: 15px 20px;
+    background: deeppink;
+    width: 60%;
+    color: #fff;
+    display: inline-block;
+    line-height: 0px;
+    border-radius: 7px;
+}
